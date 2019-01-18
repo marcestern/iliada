@@ -2,5 +2,10 @@ abcd
 
 dcba
 
+
 se prende la guerra
 lanzann flechas
+
+hector saluda
+hector se vuelve
+
